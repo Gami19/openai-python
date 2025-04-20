@@ -3,13 +3,13 @@
 
 ## 主要技術
 
-|言語・フレームワーク||バージョン|
-| ---------------- || ------ |
-|Anaconda|24.11.3|
-|Python|3.11.11|
+| 言語・フレームワーク | バージョン |
+| ---------------- | ---------------- |
+| Anaconda         | 24.11.3          |
+| Python           | 3.11.11          |
  > max_tokens は、o1 シリーズ モデルでは機能しない
 ## ライブラリ
- > pip　であることに注意
+ > pip　であることに注意</br>
  > Dall E 3（画像生成）を使用する場合は、Imgageモジュールをインストールすること
  ```
     pip install AzureOpenAI,requests,Image,load_dotenv,BeautifulSoup
